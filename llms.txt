@@ -1,0 +1,18 @@
+# Spasi Kosong FF (Free Fire Invisible Name Generator)
+> Kode Spasi Kosong Free Fire Panjang (U+3164), Sedang, dan Pendek untuk Nickname Kosong Tanpa Nama
+
+## Ringkasan Proyek
+Spasi Kosong FF adalah alat web ringan, cepat, dan 100% client-side yang dirancang khusus untuk para pemain Garena Free Fire dan FF MAX agar dapat menyalin kode spasi kosong Unicode (Hangul Filler U+3164, Halfwidth U+FFA0, dan Zero-Width Space U+200B) untuk membuat nama akun tanpa nama (invisible name) sekali klik.
+
+## URL Kanonikal
+https://ahmedelazabdev.github.io/spasikosongff/
+
+## Fitur Utama
+- Salin 1-Klik Spasi Kosong Panjang (U+3164) untuk nama kosong total.
+- Salin Spasi Sedang (U+FFA0) dan Spasi Pendek (U+200B) untuk pemisah kata dan tag guild.
+- Generator Kombinasi Acak: Mengatasi masalah "Nama Sudah Digunakan" dengan variasi kode tak terlihat.
+- Simulasi Tampilan Game: Preview langsung bagaimana nickname akan tampil di profil Free Fire.
+- Aman 100% Anti-Banned: Menggunakan standar resmi Unicode internasional tanpa cheat atau aplikasi pihak ketiga.
+
+## Target Pengguna
+Pemain Garena Free Fire dan Free Fire MAX di Indonesia dan Asia Tenggara yang ingin mengubah nickname akun menjadi unik, keren, dan misterius.
